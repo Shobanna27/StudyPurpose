@@ -1,0 +1,15 @@
+This file is created from Vscode 
+We need to follow four steps Insert > Add > Commit > Push 
+
+Insert :
+Add a file in Folder ( Study Purpose ) in Vscode 
+
+Add :
+git add Vscode_to_Github_Steps.txt
+
+Commit :
+git commit -m "Steps to be followed"
+
+Push :
+git push origin main
+
